@@ -29,7 +29,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    border-radius:10px 10px 10px 10px;
+    border-radius:8px;
 }
 
 
@@ -160,7 +160,7 @@ body {
 
 .lock-unlock {
     font-size: 1.5rem;
-    margin-left: 14.5rem;
+    margin-left: 16rem;
     margin-top: -.1rem;
 }
 
